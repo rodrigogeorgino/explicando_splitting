@@ -17,5 +17,4 @@ O fluxo geral é:
 </ul>
 **
 <h3>Aula Js + CSS</h3>
-<p>Prof. Rodrigo Georgino - 2024</p>
 **
